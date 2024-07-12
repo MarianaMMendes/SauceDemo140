@@ -1,0 +1,5 @@
+/.pytest_cache
+/.venv
+/github.txt
+/selenium.txt
+/__pycache__
